@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! I'm Amr Mohamed
 
-<!--
-**3mr-1/3mr-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student, currently diving deep into .NET Full Stack Web Development.
 
-Here are some ideas to get you started:
+I’m passionate about turning real-world problems into smart web solutions using technologies like C#, ASP.NET, SQL Server, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on my graduation project and building practical applications to sharpen my backend and frontend skills.
+
+My goal is to become a professional .NET developer capable of building scalable and impactful systems.
+
+Feel free to reach out: mamr43514@gmail.com
+
+More projects and updates coming soon.
