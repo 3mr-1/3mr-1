@@ -1,5 +1,4 @@
-## 👋 Hey, I'm Amr Mohammed
-
+## 👋 Hey, I'm Amr Mohammed <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" style="margin-left: 6px;"/>
 <img align="right" alt="Full Stack Developer" src="stack-banner.png" width="420px" />
 
 I'm a dedicated **.NET Backend Developer**, currently transitioning into **Full Stack Web Development**. I love building real-world web systems with clean code and solid architecture. I'm in my final year of IT at **Egyptian E-learning University (EELU)**, blending academic learning with strong practical experience in backend and full-stack development.
@@ -76,7 +75,15 @@ Egyptian E-learning University (EELU)
 <!-- --------------------------------------------- -->
 
 ### 📫 Contact
-- 📧 Email: mamr43514@gmail.com
+<p align="left">
+  <a href="mailto:mamr43514@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
+<!-- --------------------------------------------- -->
+
+### 👁️ Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=amrusername&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- --------------------------------------------- -->
