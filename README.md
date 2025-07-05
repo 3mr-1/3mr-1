@@ -7,6 +7,12 @@ I specialize in **C#**, **.NET Core**, **SQL Server**, and working with **REST A
 
 <!-- --------------------------------------------- -->
 
+### 🧠 About Me
+I'm passionate about solving real-world problems through clean, efficient code. I enjoy learning modern technologies and continuously improving my skills through hands-on practice. I'm transitioning from .NET backend to full stack development, blending back-end expertise with growing front-end capabilities.
+
+<!-- --------------------------------------------- -->
+
+
 ### 🔧 Tech Stack
 
 <p align="left">
@@ -76,14 +82,18 @@ Egyptian E-learning University (EELU)
 
 ### 📫 Contact
 <p align="left">
-  <a href="mailto:mamr43514@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=mamr43514@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+</p>
+
 </p>
 
 <!-- --------------------------------------------- -->
 
 ### 👁️ Visitors
 
-![Visitors](https://komarev.com/ghpvc/?username=amrusername&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=3mr-1&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- --------------------------------------------- -->
