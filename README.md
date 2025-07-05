@@ -2,9 +2,9 @@
 
 <img align="right" alt="Full Stack Developer" src="stack-banner.png" width="420px" />
 
-I'm a dedicated **.NET Backend Developer** who loves building real-world web systems with clean code and solid architecture. I'm currently in my final year of IT at **Egyptian E-learning University (EELU)**, blending academic learning with hands-on backend projects.
+I'm a dedicated **.NET Backend Developer**, currently transitioning into **Full Stack Web Development**. I love building real-world web systems with clean code and solid architecture. I'm in my final year of IT at **Egyptian E-learning University (EELU)**, blending academic learning with strong practical experience in backend and full-stack development.
 
-Currently enrolled in the **Rout Academy Backend Development Program**, where I’m sharpening my skills in C#, .NET, APIs, and databases through real-world practice.
+I specialize in **C#**, **.NET Core**, **SQL Server**, and working with **REST APIs**, while also building front-end interfaces using **HTML**, **CSS**, and **JavaScript**. I’ve gained a solid understanding of OOP, system architecture, and full-stack principles through self-learning and hands-on projects.
 
 <!-- --------------------------------------------- -->
 
@@ -23,17 +23,29 @@ Currently enrolled in the **Rout Academy Backend Development Program**, where I�
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right:10px;"/>
   </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:10px;"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right:10px;"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin-right:10px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin-right:10px;"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right:10px;"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" style="margin-right:10px;"/>
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="margin-right:10px;"/>
+  </a>
+  <a href="https://postman.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" style="margin-right:10px;"/>
   </a>
 </p>
 
@@ -54,14 +66,17 @@ Egyptian E-learning University (EELU)
 
 <!-- --------------------------------------------- -->
 
-### 📘 Currently Learning
-- C#, .NET Core, EF Core, APIs, SQL @ Rout Academy
-- Advanced C++ & OOP via Self-Learning (YouTube)
+### 📘 Areas of Focus
+- Backend Systems using C# and .NET Core
+- SQL Databases, EF Core & Query Optimization
+- RESTful API Integration
+- Frontend using HTML, CSS, JavaScript
+- Clean Architecture, Git Workflow & Version Control
 
 <!-- --------------------------------------------- -->
 
 ### 📫 Contact
 - 📧 Email: mamr43514@gmail.com
-- 💼 LinkedIn: *[Add your LinkedIn link]*
+
 
 <!-- --------------------------------------------- -->
