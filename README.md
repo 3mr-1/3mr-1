@@ -9,9 +9,13 @@
 
 <br><br>
 
-I’m a Full Stack Web Developer specializing in the .NET ecosystem.  
+I'm a Full Stack Web Developer specializing in the .NET ecosystem.  
 Currently a final-year CS student passionate about backend development, APIs, clean architecture, and solving real-world problems with scalable systems.  
 I enjoy working with C#, ASP.NET Core, and SQL Server, and I’ve also explored Java, C++, and Python for academic and personal projects.
+
+<br>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ---
 
