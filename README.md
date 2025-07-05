@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amr%20Mohammed-blue?logo=linkedin&style=flat" />
 </a>
 <a href="mailto:mamr43514@gmail.com">
-  <img align="left" alt="Email" src="https://img.shields.io/badge/Email-mamr43514@gmail.com-red?logo=gmail&style=flat" />
+  <img align="right" src="stack-banner.png" alt="Full Stack Developer" width="350"/>
 </a>
 
 <br><br>
