@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack .NET Developer with a strong foundation in backend systems, frontend design, and database architecture.
 
-<img align="right" alt="Full Stack Developer" src="assets/stack-banner.png" width="360px"/>
+<img align="right" alt="Full Stack Developer" src="stack-banner.png" width="360px"/>
 
 ### 🧠 About Me
 - 🎓 Final-year CS student
