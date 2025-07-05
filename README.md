@@ -1,23 +1,8 @@
 ## Hey 👋, I'm Amr Mohammed
 
-<a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
-  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amr%20Mohammed-blue?logo=linkedin&style=flat" />
-</a>
-<a href="mailto:mamr43514@gmail.com">
-  <img align="right" src="stack-banner.png" alt="Full Stack Developer" width="350"/>
-</a>
+I'm a passionate Full Stack .NET Developer with a strong foundation in backend systems, frontend design, and database architecture.
 
-<br><br>
-
-I'm a Full Stack Web Developer specializing in the .NET ecosystem.  
-Currently a final-year CS student passionate about backend development, APIs, clean architecture, and solving real-world problems with scalable systems.  
-I enjoy working with C#, ASP.NET Core, and SQL Server, and I’ve also explored Java, C++, and Python for academic and personal projects.
-
-<br>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
----
+<img align="right" alt="Full Stack Developer" src="assets/stack-banner.png" width="360px"/>
 
 ### 🧠 About Me
 - 🎓 Final-year CS student
@@ -26,7 +11,6 @@ I enjoy working with C#, ASP.NET Core, and SQL Server, and I’ve also explored 
 - 🚀 Currently working on my graduation project
 - 💡 Always exploring new technologies and best practices
 
----
 
 ### 🧰 Languages & Tools
 
