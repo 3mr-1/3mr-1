@@ -1,69 +1,72 @@
-## 👋 Hey there, I'm Amr Mohammed
+## 👋 Hey, I'm Amr Mohammed
 
-<img align="right" alt="Full Stack Developer" src="assets/stack-banner.png" width="400" height="280"/>
+<img align="right" alt="Full Stack Developer" src="stack-banner.png" width="400" height="280"/>
 
-I'm a **.NET Backend Developer** with a passion for building scalable, efficient, and clean web applications. Currently a final-year IT student at **Egyptian E-learning University (EELU)**, majoring in Information Technology (Expected Graduation: 2026).
-
-Actively learning and working on real-world projects through the **Backend Development Program at Rout Academy**, where I’m applying my knowledge of C#, .NET, APIs, and databases.
+I'm a passionate **.NET Backend Developer** and a final-year student at **Egyptian E-learning University (EELU)**, majoring in Information Technology (Graduating 2026). I enjoy building scalable, clean, and real-world web applications. Currently, I’m sharpening my backend skills through practical training and real projects at **Rout Academy**.
 
 ---
 
-### 🧠 Technical Skills
+### 💡 What I Do
+- Develop backend systems using **C#** and **.NET Core**
+- Build console and web-based applications with a focus on clean architecture
+- Work with databases using **SQL Server** and understand relational design
+- Explore API development and integration (RESTful)
+- Practice version control and team collaboration using **Git & GitHub**
 
+---
+
+### 🛠️ Technical Stack
 - **Languages**: C#, C++, Python, Java (Basics)
-- **OOP Concepts**: Strong understanding; applied in C++ & C# projects
-- **Backend Development**: .NET, data structures, algorithms, API handling
-- **Databases**: SQL Server basics, writing queries, relational models
-- **Web**: HTML, CSS (Basics)
-- **APIs**: RESTful APIs, backend integration
-- **Tools**: Git, GitHub
-- **OS Knowledge**: Linux basics, Windows environments
-- **Computer Fundamentals**: Networking, OS, hardware basics
+- **OOP**: Solid grasp of object-oriented principles applied in real projects
+- **Databases**: SQL Server basics, queries, and schema design
+- **Web Basics**: HTML, CSS
+- **Tools**: Git, GitHub, Visual Studio, VS Code
+- **Concepts**: API consumption, file handling, data structures, debugging
+- **Operating Systems**: Windows + Basic Linux/Unix knowledge
 
 ---
 
-### 💻 Projects
+### 🚀 Projects Highlight
 
-#### • Bank System Project (C++)
-A console-based banking system applying **Object-Oriented Programming** concepts like encapsulation, inheritance, and abstraction.
+#### 🔐 Bank System (C++)
+Built a CLI-based banking system implementing full OOP concepts like encapsulation, inheritance, and abstraction.
 
-#### • Custom String Library (C++)
-Created a mini string library with features like concatenation, substring, and search to understand **memory management and pointers**.
+#### 🔤 Custom String Library (C++)
+Developed a lightweight string manipulation library from scratch to improve memory handling and pointer skills.
 
-#### • Simple Game (Python)
-Text-based game built using Python fundamentals: functions, loops, and conditions.
-
----
-
-### 📚 Education
-- **Bachelor of Information Technology**, Egyptian E-learning University (EELU)
-- Major: Information Technology
-- **Expected Graduation**: 2026
+#### 🎮 Simple Text Game (Python)
+Designed a basic command-line game using core Python logic and control structures.
 
 ---
 
-### 🚀 Currently Learning
-- **Backend Development Program** at Rout Academy
-  - Focus on C#, .NET, APIs, Entity Framework, and SQL
-- Self-learning C++ and OOP via **YouTube (Abu Hudhod Channel)**
+### 📘 Education
+**Bachelor of Information Technology**  
+Egyptian E-learning University (EELU)  
+📍 Major: Information Technology  
+🎓 Expected Graduation: 2026
 
 ---
 
-### 🤝 Soft Skills
-- Teamwork & Collaboration
-- Communication
-- Time Management
+### 📈 Currently Learning
+- **Backend Development Program** – Rout Academy
+  - C#, .NET Core, Entity Framework, API development, SQL
+- Continued self-learning via YouTube (Abu Hudhod Channel – C++/OOP Focus)
+
+---
+
+### 🧠 Soft Skills
+- Team Collaboration
+- Clear Communication
 - Problem Solving
-- Debugging
-- Self-Learning & Adaptability
+- Time Management
+- Debugging & Troubleshooting
+- Adaptability & Self-Learning
 
 ---
 
-### 📫 Let's Connect
-Feel free to reach out for collaboration, internship opportunities, or tech discussions:
-
+### 📬 Get in Touch
 - 📧 Email: mamr43514@gmail.com
-- 💼 LinkedIn: [Add your link here]
-- 🗂️ Portfolio / Website: [If available]
+- 💼 LinkedIn: *[Add your LinkedIn link here]*
+- 🌐 Portfolio: *[Add your website if any]*
 
 ---
